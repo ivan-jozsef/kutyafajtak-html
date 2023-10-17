@@ -1,6 +1,6 @@
 body{
     background-image: url("../img/background/");
-    color: brown;
+    color: #4d0808;
 }
 
 h1{
@@ -9,4 +9,17 @@ text-align: center;
 
 a {
 color: darkslategrey;
+}
+
+table , tr, td{
+    border: 1px solid #aa7777;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 0.5rem;
+}
+
+table {
+    margin: auto;
 }
