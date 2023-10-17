@@ -1,0 +1,12 @@
+body{
+    background-image: url("../img/background/");
+    color: brown;
+}
+
+h1{
+text-align: center;
+}
+
+a {
+color: darkslategrey;
+}
