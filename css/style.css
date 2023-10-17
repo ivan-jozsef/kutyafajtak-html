@@ -1,6 +1,6 @@
 body{
     background-image: url("../img/background/");
-    color: brown;
+    color: #4d0808;
 }
 
 h1{
@@ -13,4 +13,24 @@ color: darkslategrey;
 
 p:first-child {
     text-indent: 1cm;
+}
+
+table , tr, td{
+    border: 1px solid #aa7777;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 0.5rem;
+}
+
+table {
+    margin: auto;
+}
+
+.minikep {
+    float: right;
+    width: 400px;
+    margin-left: 20px;
+    border: 3px solid #4d0808;
 }
