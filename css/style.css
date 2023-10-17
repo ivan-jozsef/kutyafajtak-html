@@ -10,3 +10,7 @@ text-align: center;
 a {
 color: darkslategrey;
 }
+
+p:first-child {
+    text-indent: 1cm;
+}
